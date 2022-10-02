@@ -1,0 +1,14 @@
+{
+  "name": "lambda-edge-demo-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "author": "Stanislav Tiurikov",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "got": "^12.0.4",
+    "request": "^2.88.2"
+  }
+}
